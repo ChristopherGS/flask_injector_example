@@ -1,0 +1,6 @@
+Flask==1.0.2
+Flask-Injector==0.10.1
+injector==0.14.1
+redis==2.10.6
+pytest==3.8.1
+fakeredis==0.14.0
